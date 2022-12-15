@@ -1,7 +1,6 @@
 # Chat Application
-
-I started this project while attending the Front-End-Development program at Algebra University in Zagreb, Croatia.
-This assignment served as a final certification exam. 
+Project was done for the Frontend Development program at Algebra University in Zagreb, Croatia.
+The project served as a final certification exam. 
 
 # Technologies
 
