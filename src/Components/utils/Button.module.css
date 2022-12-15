@@ -1,0 +1,43 @@
+.button {
+   padding: 12px;
+    
+    font-size: 20px;
+    background-color: var(--color-green);
+  
+    color:  white;
+   
+    border-radius: 8px;
+    margin-left: 10px;
+    transition: all  0.5s ease-in-out;
+  }
+  
+  .button:hover,
+  .button:active {
+    background: #741188;
+    border-color: #741188;
+    color: white;
+    box-shadow: 0 0.5em 0.5em -0.4em #741188;
+    transform: translate(0.25em);
+   
+  }
+  
+  .button:focus {
+    outline: none;
+  }
+
+  button:disabled,
+button:focus:disabled,
+button:hover:disabled,
+button:active:disabled {
+  background: #ccc;
+  border-color: #ccc;
+  color: #666666;
+  cursor: not-allowed;
+  box-shadow: none;
+
+  -webkit-transform: rotateZ(-360deg);
+  -ms-transform: rotateZ(-360deg);
+  transform: rotateZ(-360deg);
+  
+
+}

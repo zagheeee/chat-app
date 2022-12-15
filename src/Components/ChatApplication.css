@@ -1,0 +1,9 @@
+.ChatApplication {
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    background: linear-gradient(90deg, rgba(58,180,92,1) 2%, rgba(80,58,180,1) 23%, rgba(29,203,253,0.9307073171065301) 52%, rgba(80,58,180,1) 73%, rgba(29,253,103,1) 100%);
+    height: 100vh;
+  }
+
+  

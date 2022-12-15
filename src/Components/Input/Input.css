@@ -1,0 +1,27 @@
+.input input {
+  padding: 10px;
+  font-size: 25px;
+  border-radius: 8px;
+ 
+  border: 2px solid var(--color-green);
+  flex-grow: 1;
+  transition: box-shadow 0.35s;
+  
+  
+}
+
+.input input:focus {
+  box-shadow: 0 0 10px 1px  #741188;;
+}
+
+
+
+
+.input__form form{
+
+display: flex;
+width: 100%;
+justify-content: space-between;
+max-width: 900px;
+margin: 0 auto 40px;
+}
