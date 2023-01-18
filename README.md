@@ -20,7 +20,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+When you copy the projejct to your hard drive, first write:
+
+### `npm i`
+
+to get the node_modules installed, so the app runs how it was supposed to.
+
+Then, in the project directory, you can run:
 
 ### `npm start`
 
