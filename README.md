@@ -13,22 +13,6 @@ You can create your Scaledrone channel for free [here](https://www.scaledrone.co
 To connect to the channel just enter your channel ID in the third input field.
 Alternatively, you can paste a channel ID in the Chat-Application.js component.
 
-```javascript
-//  Your Scaledrone channel ID goes here instead of  channel_ID. //
-const drone = new window.Scaledrone(channel_ID, {
-  data: member,
-});
-```
-
-# Features
-
-- Log in with your username.
-- Select your avatar.
-- Use Vercel to connect and chat simultaneously with multiple users.
-- Duplicate tabs to log in with multiple users on same computer.
-- User interface enhanced with animations.
-- Each member has a unique color for better recognition.
-- Enter your own channel ID.
 
 # Getting Started with Create React App
 
